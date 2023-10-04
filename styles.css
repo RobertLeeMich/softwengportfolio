@@ -19,17 +19,17 @@ body {
 }
 
 #link{
-  text-decoration: none;
+  text-decoration:underline;
   color: white;
 }
 
 #link2{
-  text-decoration: none;
+  text-decoration: underline;
   color: white;
 }
 
 #link3{
-  text-decoration: none;
+  text-decoration: underline;
   color: white;
 }
 
@@ -163,4 +163,18 @@ footer {
   font-size: 0.8rem;
   text-decoration: none;
   margin-bottom: -1rem;
+}
+
+.portlink{
+  text-decoration: none;
+  color: #D0FCB3;
+  font-size: 1.3rem;;
+}
+
+.portlink:hover{
+  color:#C8AD55
+}
+
+.spin{
+  margin-top: -0.5rem;
 }
